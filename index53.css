@@ -116,7 +116,7 @@ body {
     height: 72px;
     position: absolute;
     top: 72vh; 
-    left: 32.4vw;
+    left: 31.4vw;
     animation: linear wheel3 1s infinite;
 }
 
@@ -125,7 +125,7 @@ body {
     height: 72px;
     position: absolute;
     top: 72vh; 
-    left: 50.4vw;
+    left: 48.4vw;
     animation: linear wheel3 1s infinite;
 }
 
